@@ -1,2 +1,1 @@
-# kodemia-29js-github-practica-final
-Practica final
+Itzel Gómez Padilla
